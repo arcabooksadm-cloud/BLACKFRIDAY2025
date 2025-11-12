@@ -6,3 +6,4 @@
 <img width="525" height="247" alt="10%" src="https://github.com/user-attachments/assets/17ea3eaf-92be-489f-84ce-711cd0977943" />
 <img width="427" height="248" alt="5%" src="https://github.com/user-attachments/assets/3f0dc7db-e4e3-4608-b984-ceb3c31ef711" />
 <img width="736" height="685" alt="logos" src="https://github.com/user-attachments/assets/e89f6c96-f75e-45e1-99e5-32d94c5d1be7" />
+<img width="2181" height="500" alt="FAIXA" src="https://github.com/user-attachments/assets/6ad003a5-3ad0-4d6a-a10e-d59624dc8493" />
