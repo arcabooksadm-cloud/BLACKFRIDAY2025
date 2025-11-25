@@ -32,3 +32,4 @@
 <img width="1000" height="1000" alt="40 SEGREDOS - 10%" src="https://github.com/user-attachments/assets/6468ee6d-b239-4ac9-acf1-626c123f4547" />
 <img width="1000" height="1000" alt="40 PENSAMENTOS - 10%" src="https://github.com/user-attachments/assets/73e63954-279f-4442-9d67-3574addbad54" />
 <img width="1000" height="1000" alt="12 MISSOES- 20%" src="https://github.com/user-attachments/assets/b71eb80a-1782-4be4-993f-6039de7b77e1" />
+<img width="1000" height="1000" alt="ES2" src="https://github.com/user-attachments/assets/1607df57-e8e5-493d-bedd-7cb533d0796f" />
