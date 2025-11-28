@@ -36,5 +36,7 @@
 <img width="962" height="166" alt="btn" src="https://github.com/user-attachments/assets/4dc3a124-9fdb-4d70-a179-5d39893f8930" />
 <img width="2500" height="700" alt="ebooks" src="https://github.com/user-attachments/assets/36404c37-6add-47fa-be4b-079fcce09d18" />
 <img width="2500" height="700" alt="bf" src="https://github.com/user-attachments/assets/4b328f96-c5e2-46fa-be40-468b84514c27" />
+<img width="1713" height="8193" alt="bgred" src="https://github.com/user-attachments/assets/0f7abc8b-6f4d-4a16-822e-9964e301fab1" />
+<img width="1713" height="8193" alt="bgblack" src="https://github.com/user-attachments/assets/27924485-6b82-49ea-bb3a-e4e8a56eb1dc" />
 
 
